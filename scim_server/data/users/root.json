@@ -1,0 +1,31 @@
+{
+    "schema": "schemas:[urn:ietf:params:scim:schemas:core:2.0:User]",
+    "id": "a8ffb2bd-69f0-443d-b389-087f14ad4db7",
+    "externalId": "",
+    "meta": {
+        "resourceType": "User",
+        "created": "2020-10-28 16:32:00.347288",
+        "lastModified": "2020-10-28 16:32:00.347386",
+        "location": "http://:0/v2/Users/a8ffb2bd-69f0-443d-b389-087f14ad4db7",
+        "version": 0.1
+    },
+    "username": "",
+    "socialSecurityCode": "",
+    "familyName": "",
+    "firstNames": "",
+    "nickName": "",
+    "address": "",
+    "postalCode": "",
+    "PostalDistrict": "",
+    "LanguageCode": "",
+    "LanguageCodeDescription": "",
+    "workPeriodId": "10e233c2-13de-4937-9fd0-7598af52a4ba",
+    "workPeriodDescription": "",
+    "OficialJobDescription": "",
+    "workDepartment": "",
+    "workPeriodStartDate": "",
+    "workPeriodEndDate": "",
+    "workPeriodStatus": false,
+    "isSupervisor": false,
+    "idOfSupervisor": ""
+}

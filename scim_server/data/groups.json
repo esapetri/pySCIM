@@ -1,0 +1,34 @@
+{
+  {
+  "schemas": ["urn:ietf:params:scim:schemas:core:2.0:Group"],
+  "id":"9ba5836b-dba0-4c59-a9f4-c5eced82fbb3",
+  "displayName": "Admin",
+  "members":[
+    {
+      "value": "2819c223-7f76-453a-919d-413861904646",
+      "$ref": "https://example.com/v2/Users/2819c223-7f76-453a-919d-413861904646",
+      "display": "Dwight Schrute"
+    }
+  ],
+  "meta": {
+    "resourceType": "Group",
+    "created": "2010-01-23T04:56:22Z",
+    "lastModified": "2011-05-13T04:42:34Z",
+    "version": "W\/\"3694e05e9dff592\"",
+    "location": "http://localhost:4555/v2/Groups/9ba5836b-dba0-4c59-a9f4-c5eced82fbb3"
+    }
+  },
+  {
+  "schemas": ["urn:ietf:params:scim:schemas:core:2.0:Group"],
+  "id":"e266cfcc-ff58-42c5-be00-fbdc4c686c06",
+  "displayName": "Users",
+  "members":[],
+  "meta": {
+    "resourceType": "Group",
+    "created": "",
+    "lastModified": "",
+    "version": "",
+    "location": ""
+    }
+  },
+}
